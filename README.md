@@ -11,7 +11,6 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Ja" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="right" alt="Gab-pic" src="https://discord.com/channels/902537163315482695/902537163315482698/940314960037306418">
 </div>
   
   ##
