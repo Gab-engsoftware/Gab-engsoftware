@@ -2,7 +2,7 @@
 
 - 🔭 Em busca da primeira oportunidade na área de TI
 - 🎓 Análise e Desenvolvimento de Sistemas 3/5
-- 🌱 Estudando Java
+- 🌱 Estudando Java | HTML | CSS | JavaScript | Angular
 - 😄 Pronouns: ele/dele
 
 <div align="center">
