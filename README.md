@@ -11,7 +11,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gab-engsoftware&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gab-Ja" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Gab-Ja" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img alaing="center" alt="Gab-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        
     <img align="right" alt="Gab-pic" height="140" width="140" src="https://cdn.discordapp.com/attachments/902537163315482698/940325842305843230/ezgif.com-gif-maker_2.gif">
 </div>
   
