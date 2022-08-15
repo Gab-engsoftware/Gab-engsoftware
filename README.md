@@ -11,10 +11,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gab-engsoftware&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gab-Ja" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img alaing="center" alt="Gab-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-        
-    <img align="right" alt="Gab-pic" height="140" width="140" src="https://cdn.discordapp.com/attachments/902537163315482698/940325842305843230/ezgif.com-gif-maker_2.gif">
+  <img aligng="center" alt="Gab-Ja"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img alaing="center" alt="Gab-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alaing="center" alt="Gab-Ht" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img alaing="center" alt="Gab-Cs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img alaing="center" alt="Gab-Ag" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div>
   
   ##
