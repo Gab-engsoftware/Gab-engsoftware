@@ -1,6 +1,5 @@
 ## Opa!  Eu sou o Gabriel Reis
 
-- 🔭 Em busca da primeira oportunidade na área de TI
 - 🎓 Análise e Desenvolvimento de Sistemas 3/5
 - 🌱 Estudando Java | HTML | CSS | JavaScript | Angular
 - 😄 Pronouns: ele/dele
