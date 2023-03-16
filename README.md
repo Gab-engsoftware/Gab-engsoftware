@@ -1,6 +1,6 @@
 ## Opa!  Eu sou o Gabriel Reis
 
-- 🎓 Análise e Desenvolvimento de Sistemas 3/5
+- 🎓 Análise e Desenvolvimento de Sistemas 4/5
 - 🌱 Estudando: Java | SpringBoot | Angular
 - 😄 Pronouns: ele/dele
 
