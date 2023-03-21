@@ -1,7 +1,7 @@
 ## Opa!  Eu sou o Gabriel Reis
 
 - 🎓 Análise e Desenvolvimento de Sistemas 4/5
-- 🌱 Estudando: Java | SpringBoot | Angular
+- 🌱 Estudando: Android | Kotlin | Java
 - 😄 Pronouns: ele/dele
 
 <div align="center">
