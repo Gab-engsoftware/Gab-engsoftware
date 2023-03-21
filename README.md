@@ -11,11 +11,10 @@
 </div>
 <div style="display: inline_block"><br>
   <img aligng="center" alt="Gab-Ja"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img alaing="center" alt="Gab-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alaing="center" alt="Gab-Ht" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alaing="center" alt="Gab-Cs" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img alaing="center" alt="Gab-Ag" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img alaing="center" alt="Gab-Sp" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alaing="center" alt="Gab-Kt" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img alaing="center" alt="Gab-As" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+  <img alaing="center" alt="Gab-Ad" height="38" width="48"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
+  
           
 </div>
        
