@@ -11,9 +11,9 @@
 </div>
 <div style="display: inline_block"><br>
   <img aligng="center" alt="Gab-Ja"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img alaing="center" alt="Gab-Kt" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img alaing="center" alt="Gab-As" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  <img alaing="center" alt="Gab-Ad" height="38" width="48"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
+  <img alaing="center" alt="Gab-Kt" height="45" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img alaing="center" alt="Gab-As" height="45" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+  <img alaing="center" alt="Gab-Ad" height="45" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
   
           
 </div>
