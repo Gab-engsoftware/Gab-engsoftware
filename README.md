@@ -1,6 +1,6 @@
 ## Opa!  Eu sou o Gabriel Reis
 
-- 🎓 Análise e Desenvolvimento de Sistemas 4/5
+- 🎓 Análise e Desenvolvimento de Sistemas 5/5
 - 🌱 Estudando: Android | Kotlin | Java
 - 😄 Pronouns: ele/dele
 
