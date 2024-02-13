@@ -1,7 +1,7 @@
 ## Opa!  Eu sou o Gabriel Reis
 
-- 🎓 Análise e Desenvolvimento de Sistemas 5/5
-- 🌱 Estudando: Android | Kotlin | Java
+- 🎓Desenvolvedor de Software | Android | Kotlin | Java
+- 💼 Trabalhando atualmente: <a href="https://www.poscontrole.com.br/">POS CONTROLE</a>
 - 😄 Pronouns: ele/dele
 
 <div align="center">
